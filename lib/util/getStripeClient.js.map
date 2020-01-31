@@ -1,0 +1,1 @@
+{"version":3,"file":"getStripeClient.js","sourceRoot":"","sources":["../../src/util/getStripeClient.ts"],"names":[],"mappings":";;;;;;;;;;;;;AAAA,mCAA4B;AAI5B,SAAgB,eAAe,CAAC,EAKhB;QALgB,EAC9B,MAAM,EACN,UAAU,GAAG,YAAY,EACzB,UAAU,GAAG,IAAI,OAEH,EADd,4DAAU;IAEV,MAAM,YAAY,GAAG,IAAI,gBAAM,CAAC,MAAM,kBACpC,UAAU;QACV,UAAU,IACP,OAAO,EACV,CAAC;IAEH,OAAO,YAAY,CAAC;AACtB,CAAC;AAbD,0CAaC"}
