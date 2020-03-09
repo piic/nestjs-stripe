@@ -25,16 +25,16 @@
     tslib "1.10.0"
     uuid "3.4.0"
 
-"@nestjs/platform-express@6.11.7":
-  version "6.11.7"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-6.11.7.tgz#9b9990ee47f5bcefaa75e0e6a4db50298f968507"
-  integrity sha512-V9+y2jw6TmoI/VPiBjMQNOUpT4ebfZwEwkSm+rtZpPiz5pU+g4vCmJdmEXjTrUGJuxsFHK7YYryM6umBkoQdlA==
+"@nestjs/platform-express@6.11.11":
+  version "6.11.11"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-6.11.11.tgz#d30ea1f39299e92e080553e893a0afac54f20c6e"
+  integrity sha512-4h3F3hDhNlO5+Ruy6eS+lSL2yIz5r4hF/BB3QkZVOuRdfji9n0gZAIR7tuSLTizqYxaHYRZ7dBv+PscQS/7ztQ==
   dependencies:
     body-parser "1.19.0"
     cors "2.8.5"
     express "4.17.1"
     multer "1.4.2"
-    tslib "1.10.0"
+    tslib "1.11.1"
 
 "@nuxtjs/opencollective@0.2.2":
   version "0.2.2"
@@ -831,10 +831,15 @@ tsconfig-paths@3.9.0:
     minimist "^1.2.0"
     strip-bom "^3.0.0"
 
-tslib@1.10.0, tslib@^1.9.0:
+tslib@1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
+
+tslib@1.11.1, tslib@^1.9.0:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.11.1.tgz#eb15d128827fbee2841549e171f45ed338ac7e35"
+  integrity sha512-aZW88SY8kQbU7gpV19lN24LtXh/yD4ZZg6qieAJDDg+YBsJcSmLGK9QpnUjAKVG/xefmvJGd1WUmfpT/g6AJGA==
 
 type-is@^1.6.4, type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
