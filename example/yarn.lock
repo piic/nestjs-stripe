@@ -782,10 +782,10 @@ strip-bom@^3.0.0:
   resolved "https://registry.yarnpkg.com/strip-bom/-/strip-bom-3.0.0.tgz#2334c18e9c759f7bdd56fdef7e9ae3d588e68ed3"
   integrity sha1-IzTBjpx1n3vdVv3vfprj1YjmjtM=
 
-stripe@8.18.0:
-  version "8.18.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.18.0.tgz#66456fbfe6f6378b792a86e857098efeb98ffe2a"
-  integrity sha512-SDemOl/jKyNeiuYNUBn1OayPIk2wbXbtmAw4dCwYdbjv1b14nkjLrSToNFDJnxnAH/SAs1P06iA+uJ3LM6uX7w==
+stripe@8.35.0:
+  version "8.35.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.35.0.tgz#6171c46bbc58f5637802513e145ca89ec8b5b46d"
+  integrity sha512-iBhjBGMoWjhhmn4Z7PVICvVqclfVyNg6scpMbHhwkl4PzQQ5Up32OwSso7d2cBexEkAtzHlwhfuRx7p4DIPeMA==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
