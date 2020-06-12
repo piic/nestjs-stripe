@@ -3374,9 +3374,9 @@ strip-final-newline@^2.0.0:
   integrity sha512-BrpvfNAE3dcvq7ll3xVumzjKjZQ5tI1sEUIKr3Uoks0XUl45St3FlatVqef9prk4jRDzhW6WZg+3bk93y6pLjA==
 
 stripe@^8.39.0:
-  version "8.62.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.62.0.tgz#b1c811aab9a4cb4d00134f7c89725e99fd3e6265"
-  integrity sha512-pfhDDI94ZxcWRjQH8/g7ThoX0U26gQGhioV+a5vfKPwCljzUNxJHzBqQs9s1XNm9lmIaE5qydzrwcgF52okdEw==
+  version "8.63.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.63.0.tgz#44926a492ebec0723c4a7d293fcaea130ada92ee"
+  integrity sha512-IjT4c9sPy/hNA4VKLRZq1+bUnL8V3nqCGSGnEA2ueCZi9CDS1ev8Q3t/6gh9lrgJ23ps+Z5MC29WLn4EZvIuBQ==
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
